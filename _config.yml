@@ -1,0 +1,6 @@
+remote_theme: pages-themes/time-machine@v0.2.0
+plugins:
+- jelkyll-remote-theme
+Tilte: [KHUSHI CHOUDHARY]
+description: [Software Development Student]
+
