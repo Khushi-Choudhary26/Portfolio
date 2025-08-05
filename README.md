@@ -21,9 +21,11 @@ I am a final-year B.Tech student majoring in Computer Science and Engineering at
 **Date:** October 2024  
 **Description:**  
 Built a secure desktop application to manage customer accounts and transactions. Key features include:
-- Account creation and deletion  
-- Balance inquiry and fund transfer  
-- Admin login with role-based access  
+-Secure Signup & Login with PIN authentication.
+-Deposit, Withdrawal, Balance Check, and Mini Statement functionalities.
+-Fast Cash option for quick withdrawals.
+-MySQL Integration using JDBC for real-time data handling.
+-User-friendly GUI built with Java Swing.
 
 ### 2. Desktop Assistant  
 **Tech Stack:** Python, Speech Recognition, Wikipedia & OpenAI APIs  
