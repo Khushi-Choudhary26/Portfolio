@@ -1,6 +1,7 @@
 # Khushi Choudhary - Resume Overview
 
-Welcome to my professional portfolio! I’m a final-year B.Tech student specializing in Computer Science and Engineering at Ajeenkya DY Patil University. With a strong CGPA of 8.90, I am deeply passionate about software development, particularly in Java, Python, and database management using MySQL. Below is a brief overview of my academic journey, key projects, and certifications.
+I am a final-year B.Tech student majoring in Computer Science and Engineering at Ajeenkya DY Patil University, with a consistent CGPA of 8.90. I possess a solid foundation and hands-on expertise in software development, with strong command over programming languages such as Java and Python, along with robust knowledge of database management using MySQL. Below is a summary of my academic background, major technical projects, and industry-recognized certifications.
+
 
 ---
 
